@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Hacktoberfest: A Guide "
-date:       2018-10-08 12:30:58 +0000
+date:       2018-10-08 08:30:59 -0400
 permalink:  hacktoberfest_a_guide
 ---
 
@@ -12,7 +12,7 @@ During the month of October, Digital Ocean hosts an even called “Hacktoberfest
 
 ### The How
 
-To participate in the event, interested participants must enroll by authorizing Digital Ocean to access data from their GitHub. Hacktoberfest participants are asked to make five contributions to open source software or projects. Each pull request made counts towards your eligibility for a limited edition Hacktoberfest T-shirt—and who doesn’t like a free T-shirt?
+To participate in the event, interested participants must enroll by authorizing Digital Ocean to access data from their GitHub. Hacktoberfest participants are asked to make five contributions to open source software or projects. Each pull request made counts towards your eligibility for a limited edition Hacktoberfest T-shirt—*and who doesn’t like a free T-shirt?*
 
 ### The What
 

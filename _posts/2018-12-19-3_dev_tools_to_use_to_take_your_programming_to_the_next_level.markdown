@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "3 Dev Tools to Use to Take Your Programming to The Next Level"
-date:       2018-12-20 02:33:32 +0000
+date:       2018-12-19 21:33:33 -0500
 permalink:  3_dev_tools_to_use_to_take_your_programming_to_the_next_level
 ---
 
